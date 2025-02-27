@@ -1,0 +1,8 @@
+# Default ignored files
+/../../audio-to-text-app /.idea/shelf/
+/../../audio-to-text-app /.idea/workspace.xml
+# Editor-based HTTP Client requests
+/../../audio-to-text-app /.idea/httpRequests/
+# Datasource local storage ignored files
+/../../audio-to-text-app /.idea/dataSources/
+/../../audio-to-text-app /.idea/dataSources.local.xml
